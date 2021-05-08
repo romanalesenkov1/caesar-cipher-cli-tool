@@ -1,0 +1,15 @@
+{
+  "name": "caesar-cipher-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "romanalesenkov1",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.2.0"
+  }
+}
